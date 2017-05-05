@@ -19,10 +19,10 @@ ONAP user interfaces are intended for users in variety of roles:
 The ONAP end-user documentation describes how to use the application UIs available from the ONAP Portal, as well as the Portal itself. 
 * [ONAP Portal](/docs/concepts/add/portal/onap_portal)
 * [Design](/docs/concepts/add/design/design)
-* [Deploy](/docs/concepts/add/deploy)
-* [Operate](/docs/concepts/add/operate)
-* [Application overviews](/docs/concepts/add/application_overviews)
+* [Deploy](/docs/concepts/add/deploy/deploy)
+* [Operate](/docs/concepts/add/operate/operate)
+* [Application overviews](/docs/concepts/add/overview/application_overviews)
 
 ## Additional resources
-* [Installing and Running the ONAP Demos](/docs/concepts/add/onap_demo)
+* [Installing and Running the ONAP Demos](/docs/concepts/add/demo/demo)
 
