@@ -7,11 +7,10 @@ All application and microservices that follow the ECOMP Platform application log
 The ONAP Application Logging Guidelines document is the official source for logging details.
 
 ### Log types
--------|----------------------------------------------------------------------------------------------------------------------
-Audit|Captures the high-level activities carried out by OpenECOMP components as a result of incoming requests, including API requests,         job executions, and messages received. Required.
-Metric|Captures the detailed activities required to carry our the activities recorded by the Audit logs, specifically outbound messages        and activities. Required.
-Error|Captures error conditions for the application. There are four error severity levels (info, warn, error, fatal). Required.
-Debug|Captures data required to correct abnormal conditions. Optional.
+* Audit: Captures the high-level activities carried out by OpenECOMP components as a result of incoming requests, including API requests,job executions, and messages received. Required.
+* Metric: Captures the detailed activities required to carry our the activities recorded by the Audit logs, specifically outbound messages and activities. Required.
+* Error: Captures error conditions for the application. There are four error severity levels (info, warn, error, fatal). Required.
+* Debug: Captures data required to correct abnormal conditions. Optional.
 
 ### Log files
 Each type of log is stored in a separate file. A full directory path is not specified, but all log directories have the following structure:
