@@ -14,6 +14,7 @@ ONAP user interfaces are intended for users in variety of roles:
   * Service designers who need to compose complex Services from Resources
   * Testers/Approvers who need to test and certify Resources and Services before they are added to the ONAP catalog
   * Product managers who need to define Products from Services (Products include billing and customer support definitions for external Business Support Systems)
+  
 ## Contents
 The ONAP end-user documentation describes how to use the application UIs available from the ONAP Portal, as well as the Portal itself. 
 * [ONAP Portal](/docs/concepts/add/onap_portal)
@@ -23,5 +24,5 @@ The ONAP end-user documentation describes how to use the application UIs availab
 * [Application overviews](/docs/concepts/add/application_overviews)
 
 ## Additional resources
-* Installing and Running the ONAP Demos
+* [Installing and Running the ONAP Demos](/docs/concepts/add/onap_demo)
 
