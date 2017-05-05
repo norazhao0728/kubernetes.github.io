@@ -6,10 +6,10 @@ Operate
 All application and microservices that follow the ECOMP Platform application logging guidelines have the following common types, location, and syntax. Each message includes a unique ID to capture the flow of requests across OpenECOMP components and enable the tracing, understanding, and troubleshooting of performance across the ECOMP platform.
 The ONAP Application Logging Guidelines document is the official source for logging details.
 
-###　Log types
---|--
-Audit|Captures the high-level activities carried out by OpenECOMP components as a result of incoming requests, including API requests, job executions, and messages received. Required.
-Metric|Captures the detailed activities required to carry our the activities recorded by the Audit logs, specifically outbound messages and activities. Required.
+### Log types
+-------|----------------------------------------------------------------------------------------------------------------------
+Audit|Captures the high-level activities carried out by OpenECOMP components as a result of incoming requests, including API requests,         job executions, and messages received. Required.
+Metric|Captures the detailed activities required to carry our the activities recorded by the Audit logs, specifically outbound messages        and activities. Required.
 Error|Captures error conditions for the application. There are four error severity levels (info, warn, error, fatal). Required.
 Debug|Captures data required to correct abnormal conditions. Optional.
 
@@ -33,7 +33,7 @@ Policy is activated when pushed to a Policy Distribution Point (PDP) and retriev
 3. In the PDP Groups pane, locate the row of the PDP group containing the policy to remove and click .
    The Remove PDP Group Policies box displays.
 4. Select a policy by clicking the check mark in its row. Repeat as necessary to select multiple policies.
-5.Click Remove to remove selected policies from the PDP group.
+5. Click Remove to remove selected policies from the PDP group.
 
 A success message displays after policies are removed from the PDP group.
 
