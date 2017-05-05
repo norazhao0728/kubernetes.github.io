@@ -20,7 +20,7 @@ The ONAP end-user documentation describes how to use the application UIs availab
 * [ONAP Portal](/docs/concepts/add/portal/onap_portal)
 * [Design](/docs/concepts/add/design/design)
 * [Deploy](/docs/concepts/add/deploy/deploy)
-* [Operate](/docs/concepts/add/operate/operate)
+* [Operate](/docs/concepts/add/operate/operate.md)
 * [Application overviews](/docs/concepts/add/overview/application_overviews)
 
 ## Additional resources
